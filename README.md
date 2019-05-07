@@ -3,6 +3,7 @@
 在`index.py`最后一行修改编辑查找关键字
 
 运行爬虫：
+建一个.idea文件夹，把inspectionProfiles，BaiduImageSpider-master.iml，misc，modules，workspace放入.idea中
 ``` python
 python index.py
 ```
